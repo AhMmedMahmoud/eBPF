@@ -9,6 +9,6 @@ compile
 
 run
 --------------
-sudo ./elci run <path>/package.json
+sudo ./ecli run <path>/package.json
 
 
